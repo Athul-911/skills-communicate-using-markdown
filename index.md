@@ -11,3 +11,9 @@ i have addded  an h1 header and another h2 header here
 ``` python
 print("hey im learning markdown")
 ```
+
+##Adding task list
+
+- [x] learned header format
+- [x] added image
+- [x] added code snippet
